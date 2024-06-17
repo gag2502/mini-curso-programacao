@@ -1,1 +1,2 @@
-# mini-curso-programacao
+# Mini curso de programação
+
