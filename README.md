@@ -1,6 +1,6 @@
 # Mini curso de programação Eld
 
-Desenvolvedoras: 
+* Desenvolvedoras: 
 
 Desenvolvedora - Gabriela
 
